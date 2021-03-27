@@ -77,7 +77,7 @@ In the classification report and consequent testing, we found the TF-IDF version
 Let's take a couple of examples for this one as well -
 * **Example 1**: “Hey what’s up?”
 As you can see, this is a normal text and has nothing wrong in it. Hence, the model classifies it as potentially not fraud.
-* **Example 2**: “Congratulations you have just won 500000”
+* **Example 2**: “Congratulations you have just won 500000”\
 We all receive these, don't we? This is a common financial scam. The attackers send out this text to trap gullible people. Then they ask for some token amount from these people as acceptance for the prize, and vanish. 
 We put this as an input to our model and see that it correctly identifies it as potentially fraud. It also displays where they can report this.
 
