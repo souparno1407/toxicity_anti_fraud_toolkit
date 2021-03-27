@@ -6,8 +6,8 @@
 While the internet has many good uses, it also has a dark side! Toxicity, bullying, threats and frauds are rampant in this internet era. This repository contains our approach to detect and prevent toxicity and financial frauds. This project has been created for Code Camp 2.0, a Virtual Hackathon from Indian Society for Technical Education Students' Chapter SRM NCR Campus.
 
 ### **Video Submission Links**:
-* **Google Drive**:
-* **YouTube**:
+* **Google Drive**: https://drive.google.com/file/d/16On8CSqIET8cIPaZ_LlvvR2kOisMDify/view?usp=sharing
+* **YouTube**: 
 
 ---
 ### **Features**
